@@ -12,6 +12,28 @@ A little exercise to get started with the specification phase of the software de
 **Interviewee Profile:** Sarah, Junior at New York University 
 **Current Living Situation:** Looking for off-campus housing after living in Third North residence hall
 
+### Goals/Needs:
+1. Find housing within a $1,500-2,000/month budget range that's within walking distance to Washington Square campus or easily accessible by subway
+2. Locate roommates (preferably other NYU students) with similar academic schedules and lifestyle habits
+3. Secure housing at least 3 months before the semester starts due to NYC's competitive rental market
+4. Find roommates who can provide guarantors or have sufficient income for NYC landlord requirements
+5. Connect with potential roommates who understand the unique challenges of student life in Manhattan
+
+### Problems/Frustrations:
+1. Most NYC apartment listings are through brokers requiring expensive broker fees (typically 15% of annual rent)
+2. Standard NYC housing websites like StreetEasy aren't tailored for student budgets or roommate situations
+3. Difficulty finding short-term leases that align with academic year (many landlords require 12-month commitments)
+4. NYU Facebook housing groups are flooded with posts, making it hard to filter legitimate offers
+5. Many listings in popular student areas (East Village, Greenwich Village) get taken within hours
+6. Hard to verify if potential roommates are actually NYU students
+7. Challenging to coordinate viewing appointments between classes and other commitments
+8. Concerned about safety when meeting potential roommates in the city
+
+### Interview Key Quotes:
+1. "The NYC housing market moves so fast - by the time I see a listing in my price range near campus, it's usually gone."
+2. "I wish there was an easy way to find other NYU students looking for roommates. The Facebook groups are chaotic, and you never know if people are actually students."
+3. "It's really hard to find places that don't require a broker fee or that offer flexible lease terms for study abroad programs."
+4. "Most affordable listings are far from campus, but I need to be able to quickly get to my classes in different NYU buildings around the Village."
 
 ## Product Vision Statement
 HousingFinder connects NYU students with verified roommates and pre-vetted housing options near campus, simplifying the challenge of finding safe, affordable student housing in New York City. 
