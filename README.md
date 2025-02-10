@@ -56,7 +56,9 @@ HousingFinder connects NYU students with verified roommates and pre-vetted housi
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. "As an NYU student, I want to verify my student status with my NYU email so that I know I'm connecting with real NYU students."
+2. "As a student with a budget, I want to filter listings by total cost (including utilities) so that I can find affordable options within my price range."
+
 
 ## Clickable Prototype
 
