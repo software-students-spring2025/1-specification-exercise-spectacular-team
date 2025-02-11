@@ -66,4 +66,4 @@ HousingFinder connects NYU students with verified roommates and pre-vetted housi
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+![Link to Prototype](https://www.figma.com/proto/VgkZRVJL1h1rslfOiRaHXM/Spectacular-Team?node-id=2-25&t=sk0AfkruxBtmIhbD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A25)
